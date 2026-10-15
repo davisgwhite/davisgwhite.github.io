@@ -1,1 +1,31 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333333;
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 0 20px;
+}
 
+/* Name heading */
+h1 {
+    font-size: 32px;
+    color: #111111;
+    margin-bottom: 0px;
+}
+
+/* The divider line */
+hr {
+    border: none;
+    height: 1px;
+    background-color: #d0d0d0;
+    margin: 15px 0 20px 0;
+}
+
+/* Job title paragraph */
+p {
+    font-size: 18px;
+    color: #555555;
+    line-height: 1.5;
+}

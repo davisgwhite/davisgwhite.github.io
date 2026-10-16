@@ -8,6 +8,15 @@ body {
     padding: 0 20px;
 }
 
+/* Navigation menu */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 40px 0;
+    display: flex;
+    gap: 20px;
+}
+
 /* Name heading */
 h1 {
     font-size: 32px;

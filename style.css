@@ -29,3 +29,8 @@ p {
     color: #555555;
     line-height: 1.5;
 }
+
+/* Email Link */
+a {
+    color: #1a5fb4;
+}
